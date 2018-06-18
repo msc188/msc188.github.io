@@ -1,0 +1,75 @@
+html,body{
+	height: 100%;
+	width:100%;
+}
+
+body{
+	background-image: url(header.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+
+	
+}
+
+#div1 {
+	
+    text-align: center;
+    margin-top: -170px;
+    position: fixed;
+    top: 50%;
+    width: 99%;
+    color: rgb(255,255,255,0.8);
+    font-family: Montserrat;
+    font-weight: bold;
+
+
+}
+
+h1{
+
+	   text-align: center;
+    margin-top: -170px;
+    position: fixed;
+    top: 50%;
+    width: 99%;
+    color: rgb(255,255,255,0.8);
+    font-family: Montserrat;
+    font-weight: bold;
+
+}
+
+.but{
+	font-weight: 700;
+  text-transform: uppercase;
+  border-radius: 300px;
+  font-family: 'Montserrat', sans-serif;
+
+  padding: 1rem 2rem; 
+
+
+
+  background-color: #F05F44;
+  border-color: #F05F44;
+   color: white;
+
+
+}
+
+
+.but:hover{
+	background-color: #ee4b08;
+  border-color: #ee4b08;
+  border-width: 5px;
+  cursor: pointer;
+
+
+}
+hr{
+	 margin-top: 200px;
+  margin-bottom: 30px; 
+   max-width: 65px;
+  border-width: 2px;
+  border-color: #F05F44;
+
+}
